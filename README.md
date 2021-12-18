@@ -17,4 +17,4 @@
 * URL: https://craftattack.live
 * Status: offline / in Development
 * Description: Building a database about all players of the current Craft Attack Season. Online time of each player, last seen online time, visualization of all available data.
-* Python
+* Language: Python
